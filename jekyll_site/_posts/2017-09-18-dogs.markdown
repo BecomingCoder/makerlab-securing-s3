@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Dogs!"
+date:   2017-09-18 09:50:35 +1000
+categories: inferior
+---
+
+![Dogs](/images/guru4.jpg)
